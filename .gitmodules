@@ -1,3 +1,6 @@
 [submodule "urmanac-mirror"]
 	path = urmanac
 	url = git@github.com:urmanac/urmanac-mirror.git
+[submodule "wiki-dev"]
+	path = wiki-dev
+	url = git@github.com:urmanac/wiki-dev.git
