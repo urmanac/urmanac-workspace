@@ -1,0 +1,3 @@
+[submodule "urmanac-mirror"]
+	path = urmanac
+	url = git@github.com:urmanac/urmanac-mirror.git
