@@ -4,3 +4,9 @@
 [submodule "wiki-dev"]
 	path = wiki-dev
 	url = git@github.com:urmanac/wiki-dev.git
+[submodule "urmanac-beta"]
+	path = spin-beta/urmanac-beta
+	url = git@github.com:urmanac/urmanac-beta.git
+[submodule "urmanac-prod"]
+	path = spin-beta/urmanac-prod
+	url = git@github.com:urmanac/urmanac-prod.git
