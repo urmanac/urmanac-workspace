@@ -1,0 +1,18 @@
+[submodule "urmanac-mirror"]
+	path = urmanac
+	url = git@github.com:urmanac/urmanac-mirror.git
+[submodule "wiki-dev"]
+	path = wiki-dev
+	url = git@github.com:urmanac/wiki-dev.git
+[submodule "urmanac-beta"]
+	path = spin-beta/urmanac-beta
+	url = git@github.com:urmanac/urmanac-beta.git
+[submodule "urmanac-prod"]
+	path = spin-beta/urmanac-prod
+	url = git@github.com:urmanac/urmanac-prod.git
+[submodule "spin-fileserver"]
+	path = spin-beta/spin-fileserver
+	url = git@github.com:fermyon/spin-fileserver.git
+[submodule "spin-redirect"]
+	path = spin-beta/spin-redirect
+	url = git@github.com:fermyon/spin-redirect.git
