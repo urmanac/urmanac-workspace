@@ -10,3 +10,9 @@
 [submodule "urmanac-prod"]
 	path = spin-beta/urmanac-prod
 	url = git@github.com:urmanac/urmanac-prod.git
+[submodule "spin-fileserver"]
+	path = spin-beta/spin-fileserver
+	url = git@github.com:fermyon/spin-fileserver.git
+[submodule "spin-redirect"]
+	path = spin-beta/spin-redirect
+	url = git@github.com:fermyon/spin-redirect.git
